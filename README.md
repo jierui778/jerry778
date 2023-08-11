@@ -66,6 +66,12 @@ C            0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <!--wakatime显示-->
 
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)<!--C语言图标-->
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)<!--python图标-->
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="90" height="90" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="90" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="90" height="90" /></div>
 
 
 
