@@ -1,6 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Jierui778&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
-### Hi there <img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/dog2.jpg" /><br>，I am ZI JIE(Jierui)
+### Hi there <img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/dog2.jpg" /><br>，I am ZI JIE(Jierui)
+
+
 <!--
 **JIERUI778/JIERUI778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
