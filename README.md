@@ -1,4 +1,5 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Jierui778&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+
+<div align="center"> <img align="right" src="https://komarev.com/ghpvc/?username=Jierui778&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
 
@@ -25,20 +26,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+<!--统计信息-->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jierui778&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-
-
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 ![Metrics](https://metrics.lecoq.io/Jierui778?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=1111&size=30&pause=1000&color=4766F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Jierui%E6%8D%8F%E4%BA%86%E6%8D%8F%E4%BD%A0%E7%9A%84%E8%86%98)](https://git.io/typing-svg)
--->
-<!--
+
+
 <img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/TomJierui.gif" /><br>
--->
+
 <!--
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
 -->
@@ -66,6 +64,8 @@ mindmap
 -->
 <!--关系图-->
 
+
+
 📊 **Today I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```txt
@@ -80,9 +80,6 @@ C            0 secs          ░░░░░░░░░░░░░░░░░
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)<!--python图标-->
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="90" height="90" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="90" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="90" height="90" /></div>
 
 
 **Languages and Frameworks**
