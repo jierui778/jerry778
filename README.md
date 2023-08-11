@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋，I am ZI JIE(Jierui)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!--
 **JIERUI778/JIERUI778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,14 +55,13 @@ mindmap
 -->
 <!--关系图-->
 
-
+📊 **Today I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```txt
 Markdown     2 hrs 56 mins   █████████████████████████   99.99 %
 ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-
 <!--END_SECTION:waka-->
 <!--wakatime显示-->
 
