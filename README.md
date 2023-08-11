@@ -57,6 +57,13 @@ mindmap
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     2 hrs 56 mins   █████████████████████████   99.99 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
