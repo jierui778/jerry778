@@ -16,7 +16,7 @@
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
 
 <div align="center">
-<a href="https://github.com/Charmve">
+<a href="https://github.com/Jierui778">
     <img src="https://badges.strrl.dev/visits/Jierui778/Jierui778?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Jierui778">
