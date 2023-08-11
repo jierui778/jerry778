@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--
 <img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/TomJierui.gif" /><br>
 -->
-<div align="center"><a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
+<div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
 
 
 
