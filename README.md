@@ -87,8 +87,34 @@ C            0 secs          ░░░░░░░░░░░░░░░░░
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/c.png" alt="C" title="C"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/python.png" alt="python" title="python"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/c.png" alt="C" title="C"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/python.png" alt="python" title="python"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/arm.jpg" alt="arm" title="arm"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/risc-v.png" alt="risc-v" title="risc-v"></code>
+
+**Tools and Environments**
+
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/keil_logo.png" alt="keil_logo" title="keil_logo"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/IAR_LOGO_PNG.png" alt="IAR_LOGO_PNG" title="IAR_LOGO_PNG"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/vscode_logo.png" alt="vscode_logo" title="vscode_logo"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/segger_embedded_studio.jpg" alt="segger_embedded_studio" title="segger_embedded_studio"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/clion-logo.png" alt="clion-logo" title="clion-logo"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/git.jpg" alt="git" title="git"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/Logo Altium Designer.png" alt="Logo Altium Designer" title="Logo Altium Designer"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/Cadence_Logo.jpg" alt="Cadence_Logo" title="Cadence_Logo"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/Arduino_Logo.png" alt="Arduino_Logo" title="Arduino_Logo"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/ubuntu.jpg" alt="ubuntu" title="ubuntu"></code>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
