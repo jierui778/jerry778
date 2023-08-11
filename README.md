@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <!--
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
 -->
-
+<!--
 <div align="center" >
-
 ```mermaid
 mindmap
   root((Jierui))
@@ -53,6 +52,13 @@ mindmap
       C primer plus
       模拟CMOS集成电路设计
 ```
+-->
+<!--关系图-->
+
+
+
+
+
 
 
 
