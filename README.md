@@ -25,5 +25,14 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=1111&size=30&pause=1000&color=4766F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Jierui%E6%8D%8F%E4%BA%86%E6%8D%8F%E4%BD%A0%E7%9A%84%E8%86%98)](https://git.io/typing-svg)
 -->
+<!--
 <img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/TomJierui.gif" /><br>
+-->
+<div align="center"><a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
+
+
+
+
+
+
 
