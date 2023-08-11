@@ -7,8 +7,8 @@
 <details><summary>(Click to expand to learn more about me) <em><b> <a href="https://github.com/Jierui778/Jierui778/issues/new" >have <b> a <b> comunication <b> with <b> me?</b> </em></summary>
 
 
-- I am a student from South China Normal University,Major is electronic information engineering.
-- I like eatting🍉,sleeping in 🛌,emmmm .....Not any more.
+- 🤔 I am a student from South China Normal University,Major is electronic information engineering.
+- ❤️I like eatting🍉,sleeping in 🛌,emmmm .....Not any more.
 
 
 </details>
