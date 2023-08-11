@@ -31,35 +31,28 @@ Here are some ideas to get you started:
 <!--
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
 -->
-</td></tr>
-</table>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
 
 ```mermaid
 mindmap
-  root((小孙同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      风光
-    旅行
+  root((Jierui))
+    混吃技能
+      单片机开发
+      图像处理
+      PCB设计
+      FPGA(想学）
+    外面溜达溜达
       广州
-      苏州
+      佛山
       南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      计算机技术
+    无聊翻的
+      编码
+      电路基础
+      电子学
+      C primer plus
+      模拟CMOS集成电路设计
+
 ```
 
 
