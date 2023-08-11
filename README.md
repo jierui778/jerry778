@@ -3,7 +3,16 @@
 </a>
 
 
-## Hi there，I am ZI JIE(Jierui)😎😎😎
+## Hi there，I am Jierui😎😎😎
+<details><summary>(Click to expand to learn more about me) <em><b><a href="https://github.com/Jierui778/Jierui778/issues/new" >have <b> a <b> comunication <b> with <b> me</b>? </em></summary>
+
+
+
+</details>
+
+
+
+
 <!--GitHub 连续打卡-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778&theme=dark)](https://git.io/streak-stats)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/duck.gif" />
 
@@ -31,31 +40,6 @@
   <a href="https://github.com/Jierui778">
     <img src="https://badges.strrl.dev/commits/monthly/Jierui778?style=flat-square&color=black&logo=github">
   </a></div>
-
-<!--
-<div align="center" >
-```mermaid
-mindmap
-  root((Jierui))
-    混吃技能
-      单片机开发
-      图像处理
-      PCB设计
-      FPGA（想学）
-    外面溜达溜达
-      广州
-      佛山
-      南京
-    无聊翻的
-      编码
-      电路基础
-      电子学
-      C primer plus
-      模拟CMOS集成电路设计
-```
--->
-<!--关系图-->
-
 
 
 📊 **Today I Spent My Time On:**
