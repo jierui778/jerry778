@@ -55,7 +55,7 @@ mindmap
 -->
 <!--关系图-->
 
-📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
