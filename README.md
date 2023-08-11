@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/Jierui778?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Metrics](https://metrics.lecoq.io/Jierui778?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=1111&size=30&pause=1000&color=4766F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Jierui%E6%8D%8F%E4%BA%86%E6%8D%8F%E4%BD%A0%E7%9A%84%E8%86%98)](https://git.io/typing-svg)
 
