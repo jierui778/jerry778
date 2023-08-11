@@ -41,7 +41,7 @@ mindmap
       单片机开发
       图像处理
       PCB设计
-      FPGA(想学）
+      FPGA（想学）
     外面溜达溜达
       广州
       佛山
@@ -52,7 +52,6 @@ mindmap
       电子学
       C primer plus
       模拟CMOS集成电路设计
-
 ```
 
 
