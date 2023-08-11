@@ -2,10 +2,14 @@
 </a>
 
 
-## Hi there，I am ZI JIE(Jierui) 
+## Hi there，I am ZI JIE(Jierui)😎😎😎
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778)](https://git.io/streak-stats)
+<!--GitHub 连续打卡-->
 
 
-<img height="20" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/dog2.png" >
+
+
 
 <!--
 **JIERUI778/JIERUI778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,13 +79,15 @@ C            0 secs          ░░░░░░░░░░░░░░░░░
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)<!--C语言图标-->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)<!--python图标-->
 
+
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="90" height="90" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="90" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="90" height="90" /></div>
 
 
+**Languages and Frameworks**
 
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 
 
 
