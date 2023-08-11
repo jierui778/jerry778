@@ -4,18 +4,20 @@
 
 
 ## Hi there，I am ZI JIE(Jierui)😎😎😎
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778&theme=dark)](https://git.io/streak-stats) <img height="200" img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/TomJierui.gif" /><br>
 <!--GitHub 连续打卡-->
 
 
 <!--统计信息-->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jierui778&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> </div>
 
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=1111&size=30&pause=1000&color=4766F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Jierui%E6%8D%8F%E4%BA%86%E6%8D%8F%E4%BD%A0%E7%9A%84%E8%86%98)](https://git.io/typing-svg)
+-->
 
 
-<img src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/TomJierui.gif" /><br>
+
+
 
 <!--
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
