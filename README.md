@@ -86,14 +86,14 @@ C            0 secs          ░░░░░░░░░░░░░░░░░
 
 
 **Languages and Frameworks**
-
+<!--语言和框架显示-->
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/c.png" alt="C" title="C"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/python.png" alt="python" title="python"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/arm.jpg" alt="arm" title="arm"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/risc-v.png" alt="risc-v" title="risc-v"></code>
 
 **Tools and Environments**
-
+<!--工具和环境显示-->
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/keil_logo.png" alt="keil_logo" title="keil_logo"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/IAR_LOGO_PNG.png" alt="IAR_LOGO_PNG" title="IAR_LOGO_PNG"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/photo/vscode_logo.png" alt="vscode_logo" title="vscode_logo"></code>
