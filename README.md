@@ -49,6 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 2 hrs 56 mins
+
 Markdown     2 hrs 56 mins   █████████████████████████   99.99 %
 ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
