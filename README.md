@@ -45,7 +45,7 @@
   </a></div>
 
 
-📊 **Today I Spent My Time On:**
+📊 **This week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```txt
