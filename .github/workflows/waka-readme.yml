@@ -12,10 +12,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CODE_LANG: all_time
-
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
