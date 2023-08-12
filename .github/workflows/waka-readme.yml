@@ -13,6 +13,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: true
+
           SHOW_TIME: true
           SHOW_TOTAL: true
 
