@@ -49,13 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Total Time: 13 mins
+Total Time: 4 hrs 8 mins
 
-C      9 mins          >>>>>>>>>>>>>>>>>--------   69.92 %
-INI    2 mins          >>>>---------------------   15.14 %
-Text   2 mins          >>>>---------------------   14.95 %
+Objective-C      3 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>-----   79.47 %
+Markdown         22 mins         >>-----------------------   08.88 %
+C                14 mins         >------------------------   05.85 %
+Ezhil            8 mins          >------------------------   03.35 %
+INI              2 mins          -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
