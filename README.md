@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-Total Time: 14 hrs 20 mins
+Total Time: 18 hrs 10 mins
 
-Objective-C      5 hrs 31 mins   >>>>>>>>>----------------   37.57 %
-Assembly         4 hrs 42 mins   >>>>>>>>-----------------   32.06 %
-Markdown         3 hrs 37 mins   >>>>>>-------------------   24.62 %
-Other            21 mins         >------------------------   02.48 %
-C                14 mins         -------------------------   01.65 %
+Objective-C      7 hrs 51 mins   >>>>>>>>>----------------   34.41 %
+Markdown         5 hrs 7 mins    >>>>>>-------------------   22.41 %
+Assembly         4 hrs 42 mins   >>>>>--------------------   20.65 %
+Other            4 hrs 39 mins   >>>>>--------------------   20.42 %
+C                14 mins         -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->
