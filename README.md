@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Total Time: 20 hrs 32 mins
+Total Time: 31 hrs 22 mins
 
-C                17 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>-----   81.68 %
-Objective-C      1 hr 31 mins    >>-----------------------   07.17 %
-Other            49 mins         >------------------------   03.86 %
-ObjectiveC       48 mins         >------------------------   03.80 %
-CMake            43 mins         >------------------------   03.41 %
+C                28 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.34 %
+Objective-C      1 hr 31 mins    >------------------------   04.80 %
+ObjectiveC       53 mins         >------------------------   02.79 %
+CMake            43 mins         >------------------------   02.28 %
+Other            32 mins         -------------------------   01.70 %
 ```
 
 <!--END_SECTION:waka-->
