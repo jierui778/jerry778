@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 46 hrs 54 mins
+Total Time: 51 hrs 13 mins
 
-C                42 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.20 %
-Markdown         3 hrs 45 mins   >>-----------------------   07.66 %
-Other            2 hrs 8 mins    >------------------------   04.35 %
-Python           17 mins         -------------------------   00.59 %
-ObjectiveC       4 mins          -------------------------   00.16 %
+C                47 hrs 4 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.22 %
+Markdown         3 hrs 45 mins   >>-----------------------   07.05 %
+Other            2 hrs 8 mins    >------------------------   04.00 %
+Python           17 mins         -------------------------   00.54 %
+ObjectiveC       4 mins          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
