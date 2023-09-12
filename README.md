@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Total Time: 25 hrs 47 mins
+Total Time: 16 hrs 29 mins
 
-C             21 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>-----   78.80 %
-Markdown      3 hrs 45 mins   >>>----------------------   13.74 %
-Other         1 hr 36 mins    >------------------------   05.86 %
-Python        17 mins         -------------------------   01.06 %
-Text          7 mins          -------------------------   00.47 %
+C             15 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.53 %
+Markdown      54 mins         >------------------------   05.55 %
+Text          7 mins          -------------------------   00.78 %
+Makefile      1 min           -------------------------   00.12 %
+XML           0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
