@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-Total Time: 42 hrs 5 mins
+Total Time: 41 hrs 34 mins
 
-C                39 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.49 %
-Other            3 hrs 31 mins   >>-----------------------   07.73 %
-Assembly         1 hr 36 mins    >------------------------   03.51 %
-ObjectiveC       26 mins         -------------------------   00.97 %
-Text             5 mins          -------------------------   00.20 %
+C                39 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>-----   80.84 %
+Other            7 hrs           >>>>---------------------   14.44 %
+Assembly         1 hr 36 mins    >------------------------   03.29 %
+ObjectiveC       26 mins         -------------------------   00.91 %
+Text             12 mins         -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
