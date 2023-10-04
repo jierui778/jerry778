@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 35 hrs 21 mins
+Total Time: 44 hrs 7 mins
 
-C                33 hrs 5 mins   >>>>>>>>>>>>>>>>>>-------   70.62 %
-Other            11 hrs 29 mins  >>>>>>-------------------   24.54 %
-Assembly         1 hr 36 mins    >------------------------   03.42 %
-ObjectiveC       26 mins         -------------------------   00.94 %
-Text             11 mins         -------------------------   00.40 %
+C           42 hrs 19 mins  >>>>>>>>>>>>>>>>>>>------   76.11 %
+Other       11 hrs 29 mins  >>>>>--------------------   20.67 %
+Assembly    1 hr 36 mins    >------------------------   02.88 %
+Text        11 mins         -------------------------   00.34 %
+GDScript3   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
