@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 49 hrs 58 mins
+Total Time: 49 hrs 36 mins
 
-C                47 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>-----   80.33 %
-Other            9 hrs 44 mins   >>>>---------------------   16.30 %
-Markdown         1 hr 17 mins    >------------------------   02.17 %
-Assembly         21 mins         -------------------------   00.61 %
-MATLAB           16 mins         -------------------------   00.45 %
+C                48 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>----   83.73 %
+Other            8 hrs 9 mins    >>>>---------------------   14.12 %
+Markdown         32 mins         -------------------------   00.92 %
+Assembly         21 mins         -------------------------   00.63 %
+MATLAB           16 mins         -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
