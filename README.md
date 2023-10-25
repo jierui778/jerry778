@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Total Time: 86 hrs 10 mins
+Total Time: 82 hrs 42 mins
 
-C                85 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.37 %
-Other            2 hrs 16 mins   >------------------------   02.58 %
-Python           31 mins         -------------------------   00.60 %
-ObjectiveC       12 mins         -------------------------   00.23 %
-Markdown         8 mins          -------------------------   00.16 %
+C             82 hrs 39 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.34 %
+Other         2 hrs 13 mins   >------------------------   02.61 %
+Markdown      2 mins          -------------------------   00.05 %
+Objective-C   0 secs          -------------------------   00.00 %
+Ezhil         0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
