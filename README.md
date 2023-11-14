@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-Total Time: 1 hr 24 mins
+Total Time: 8 mins
 
-Other      2 hrs 26 mins   >>>>>>>>>>>>>>>>---------   63.36 %
-Markdown   1 hr 22 mins    >>>>>>>>>----------------   35.92 %
-Python     1 min           -------------------------   00.72 %
+Other      2 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.31 %
+Markdown   6 mins          >------------------------   04.61 %
+Python     1 min           -------------------------   01.09 %
 ```
 
 <!--END_SECTION:waka-->
