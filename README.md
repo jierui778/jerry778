@@ -49,14 +49,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Total Time: 5 hrs 19 mins
+Total Time: 11 hrs 59 mins
 
-C          3 hrs 21 mins   >>>>>>>>>>>>>>>>---------   62.08 %
-Assembly   1 hr 50 mins    >>>>>>>>>----------------   34.12 %
-Markdown   6 mins          >------------------------   02.16 %
-Other      5 mins          -------------------------   01.64 %
+C          7 hrs 42 mins   >>>>>>>>>>>>>>>>---------   63.79 %
+Assembly   4 hrs 10 mins   >>>>>>>>>----------------   34.51 %
+Markdown   6 mins          -------------------------   00.97 %
+Other      5 mins          -------------------------   00.73 %
 ```
 
 <!--END_SECTION:waka-->
