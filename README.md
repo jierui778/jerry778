@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
-Total Time: 12 hrs 40 mins
+Total Time: 10 hrs 2 mins
 
-Assembly         7 hrs 42 mins   >>>>>>>>>>>>>>>----------   59.41 %
-Markdown         2 hrs 40 mins   >>>>>--------------------   20.63 %
-Python           1 hr 12 mins    >>-----------------------   09.30 %
-C                36 mins         >------------------------   04.73 %
-C++              19 mins         >------------------------   02.50 %
+Assembly         5 hrs 4 mins    >>>>>>>>>>>>-------------   48.50 %
+Markdown         2 hrs 40 mins   >>>>>>-------------------   25.57 %
+Python           1 hr 12 mins    >>>----------------------   11.53 %
+C                36 mins         >------------------------   05.86 %
+Other            25 mins         >------------------------   04.09 %
 ```
 
 <!--END_SECTION:waka-->
