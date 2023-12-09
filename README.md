@@ -49,14 +49,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-Total Time: 14 hrs 6 mins
+Total Time: 14 hrs 12 mins
 
-Other      30 hrs 40 mins  >>>>>>>>>>>>>>>>>--------   68.50 %
-Assembly   10 hrs 15 mins  >>>>>>-------------------   22.93 %
-C++        3 hrs 34 mins   >>-----------------------   08.00 %
-C          15 mins         -------------------------   00.57 %
+Other      37 hrs 44 mins  >>>>>>>>>>>>>>>>>>-------   72.66 %
+Assembly   10 hrs 15 mins  >>>>>--------------------   19.76 %
+C++        3 hrs 38 mins   >>-----------------------   07.00 %
+C          17 mins         -------------------------   00.58 %
 CMake      0 secs          -------------------------   00.00 %
 ```
 
