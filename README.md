@@ -49,14 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 22 mins
+Total Time: 24 mins
 
-Other   21 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.29 %
-C       21 mins         -------------------------   01.69 %
-C++     0 secs          -------------------------   00.01 %
-Text    0 secs          -------------------------   00.00 %
+Other    21 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.14 %
+C        22 mins         -------------------------   01.70 %
+MATLAB   1 min           -------------------------   00.15 %
+C++      0 secs          -------------------------   00.01 %
+Text     0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
