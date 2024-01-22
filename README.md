@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Total Time: 8 hrs 4 mins
+Total Time: 6 hrs 15 mins
 
-Other            51 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.45 %
-C++              5 hrs 49 mins   >>-----------------------   09.78 %
-Python           1 hr 22 mins    >------------------------   02.32 %
-C                28 mins         -------------------------   00.80 %
-CMakeLists.txt   13 mins         -------------------------   00.38 %
+Other            46 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.23 %
+C++              4 hrs           >>-----------------------   07.55 %
+Python           1 hr 22 mins    >------------------------   02.60 %
+C                28 mins         -------------------------   00.90 %
+CMakeLists.txt   13 mins         -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
