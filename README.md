@@ -49,12 +49,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-Total Time: 1 min
+Total Time: 10 mins
 
-Other   25 hrs          >>>>>>>>>>>>>>>>>>>>>>>>>   99.89 %
-C       1 min           -------------------------   00.11 %
+Other        35 hrs 42 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.51 %
+C            5 mins          -------------------------   00.25 %
+Git Config   2 mins          -------------------------   00.12 %
+C++          2 mins          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
