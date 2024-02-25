@@ -26,12 +26,16 @@
 <center>
 
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Jierui778&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&&theme=dark" />
+
+
 </center>
 
 <center>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" />
 <img width="150" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/duck.gif" />
+
+
 </center>
 
 
