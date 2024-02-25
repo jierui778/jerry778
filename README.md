@@ -1,5 +1,5 @@
 
- <img align="right" src="https://komarev.com/ghpvc/?username=Jierui778&label=Total Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+ <img align="right" src="https://komarev.com/ghpvc/?username=jierui778&label=Total Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
 
