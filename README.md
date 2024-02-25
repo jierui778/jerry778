@@ -16,12 +16,24 @@
 
 
 <!--GitHub 连续打卡-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778&theme=dark)](https://git.io/streak-stats)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/duck.gif" />
+<center>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jierui778&theme=dark)](https://git.io/streak-stats)&emsp;
 
 
 
 <!--统计信息-->
-<img height="135px" src="https://github-readme-stats.vercel.app/api?username=Jierui778&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" />
+<center>
+
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=Jierui778&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&&theme=dark" />
+</center>
+
+<center>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jierui778&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/Jierui778/Jierui778/gif/duck.gif" />
+</center>
+
 
 <!--联系方式-->
 <div align="center"><a href="https://blog.csdn.net/zhongzijie2004"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;</div>
