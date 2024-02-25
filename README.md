@@ -1,7 +1,6 @@
 
- <img align="right" src="https://komarev.com/ghpvc/?username=jierui778&label=Total Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+ <img align="right" src="https://komarev.com/ghpvc/?username=jierui778&left_color=green&right_color=red" alt="gtihub-visitors" />
 </a>
-
 
 ## Hi there，I am Jierui😎😎😎
 <details><summary>(Click to expand to learn more about me) <em><b> <a href="https://github.com/Jierui778/Jierui778/issues/new" >have <b> a <b> comunication <b> with <b> me?</b> </em></summary>
