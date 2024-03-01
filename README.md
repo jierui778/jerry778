@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Total Time: 34 hrs 51 mins
+Total Time: 30 hrs 15 mins
 
-C                33 hrs 23 mins  >>>>>>>>>>>>>------------   50.59 %
-Other            31 hrs 9 mins   >>>>>>>>>>>>-------------   47.20 %
-Markdown         50 mins         -------------------------   01.28 %
-Git Config       22 mins         -------------------------   00.57 %
-JSON             5 mins          -------------------------   00.14 %
+Other         31 hrs 10 mins  >>>>>>>>>>>>>------------   50.75 %
+C             28 hrs 15 mins  >>>>>>>>>>>>-------------   46.01 %
+Objective-C   53 mins         -------------------------   01.45 %
+Markdown      35 mins         -------------------------   00.96 %
+Git Config    22 mins         -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
