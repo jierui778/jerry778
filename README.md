@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Total Time: 30 hrs 11 mins
+Total Time: 30 hrs 32 mins
 
-Other            45 hrs 12 mins  >>>>>>>>>>>>>>>----------   59.96 %
-C                25 hrs 49 mins  >>>>>>>>>----------------   34.25 %
-Markdown         1 hr 57 mins    >------------------------   02.60 %
-V                1 hr 13 mins    -------------------------   01.64 %
-Objective-C      51 mins         -------------------------   01.15 %
+Other            45 hrs 18 mins  >>>>>>>>>>>>>>>----------   59.73 %
+C                26 hrs 16 mins  >>>>>>>>>----------------   34.65 %
+Markdown         1 hr 57 mins    >------------------------   02.58 %
+V                1 hr 13 mins    -------------------------   01.63 %
+Objective-C      51 mins         -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
