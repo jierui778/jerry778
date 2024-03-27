@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 5 hrs 28 mins
+Total Time: 14 hrs
 
-Other            66 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.40 %
-C                3 hrs 44 mins   >------------------------   05.20 %
-Python           45 mins         -------------------------   01.06 %
-YAML             16 mins         -------------------------   00.39 %
-Markdown         13 mins         -------------------------   00.32 %
+Other         61 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>-----   81.54 %
+C             12 hrs 44 mins  >>>>---------------------   16.79 %
+MATLAB        16 mins         -------------------------   00.37 %
+YAML          14 mins         -------------------------   00.31 %
+V             13 mins         -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
