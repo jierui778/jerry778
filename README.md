@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 5 hrs 37 mins
+Total Time: 9 hrs 42 mins
 
-Other         37 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.82 %
-C             3 hrs           >>-----------------------   07.05 %
-V             2 hrs 3 mins    >------------------------   04.82 %
-C++           13 mins         -------------------------   00.51 %
-Assembly      11 mins         -------------------------   00.46 %
+Other         42 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>-----   81.42 %
+C             6 hrs 47 mins   >>>----------------------   13.01 %
+V             2 hrs 3 mins    >------------------------   03.93 %
+C++           27 mins         -------------------------   00.88 %
+Assembly      11 mins         -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
