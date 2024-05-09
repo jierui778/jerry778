@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Total Time: 10 hrs 14 mins
+Total Time: 10 hrs 49 mins
 
-Other         39 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>-----   79.39 %
-Markdown      5 hrs 7 mins    >>>----------------------   10.32 %
-C             2 hrs 30 mins   >------------------------   05.04 %
-MATLAB        1 hr 43 mins    >------------------------   03.49 %
-Objective-C   39 mins         -------------------------   01.31 %
+Other         34 hrs 59 mins  >>>>>>>>>>>>>>>>>>>------   76.37 %
+Markdown      5 hrs 44 mins   >>>----------------------   12.53 %
+C             2 hrs 27 mins   >------------------------   05.37 %
+MATLAB        1 hr 43 mins    >------------------------   03.78 %
+Objective-C   39 mins         -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
