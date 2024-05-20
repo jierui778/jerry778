@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
-Total Time: 23 hrs 58 mins
+Total Time: 27 hrs 11 mins
 
-Other        50 hrs 18 mins  >>>>>>>>>>>>>>>>>--------   67.72 %
-V            12 hrs 23 mins  >>>>---------------------   16.68 %
-Markdown     6 hrs 39 mins   >>-----------------------   08.97 %
-C            4 hrs 26 mins   >------------------------   05.97 %
-Text         12 mins         -------------------------   00.27 %
+Other      46 hrs 49 mins  >>>>>>>>>>>>>>>>---------   63.26 %
+V          16 hrs 13 mins  >>>>>--------------------   21.92 %
+Markdown   6 hrs 27 mins   >>-----------------------   08.74 %
+C          4 hrs 26 mins   >------------------------   05.99 %
+C++        3 mins          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
