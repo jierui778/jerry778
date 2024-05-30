@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 May 2024 - To: 27 May 2024
+From: 21 May 2024 - To: 28 May 2024
 
-Total Time: 12 hrs 41 mins
+Total Time: 7 hrs 57 mins
 
-Other        26 hrs 10 mins  >>>>>>>>>>>>>>>>>--------   67.36 %
-V            10 hrs 54 mins  >>>>>>>------------------   28.04 %
-Markdown     51 mins         >------------------------   02.20 %
-C            43 mins         -------------------------   01.85 %
-Python       7 mins          -------------------------   00.34 %
+Other        28 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>-----   78.33 %
+V            5 hrs 43 mins   >>>>---------------------   15.58 %
+C            1 hr 6 mins     >------------------------   03.01 %
+Markdown     51 mins         >------------------------   02.32 %
+Git Config   8 mins          -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
