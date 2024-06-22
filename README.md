@@ -64,12 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 June 2024 - To: 19 June 2024
+From: 13 June 2024 - To: 20 June 2024
 
-Total Time: 36 mins
+Total Time: 44 mins
 
-Other    14 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.04 %
-MATLAB   36 mins         >------------------------   03.96 %
+Other      12 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.30 %
+MATLAB     36 mins         >------------------------   04.71 %
+Markdown   7 mins          -------------------------   00.98 %
 ```
 
 <!--END_SECTION:waka-->
