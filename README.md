@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
 Total Time: 12 hrs 18 mins
 
-Other       43 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>-----   78.14 %
-C++         10 hrs 6 mins   >>>>---------------------   17.94 %
-Markdown    2 hrs 3 mins    >------------------------   03.65 %
+Other       46 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>-----   78.94 %
+C++         10 hrs 6 mins   >>>>---------------------   17.27 %
+Markdown    2 hrs 3 mins    >------------------------   03.52 %
 INI         3 mins          -------------------------   00.10 %
 C           2 mins          -------------------------   00.07 %
 ```
