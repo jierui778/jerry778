@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-Total Time: 6 hrs 26 mins
+Total Time: 2 hrs 16 mins
 
-Other            21 hrs 48 mins  >>>>>>>>>>>>>>>>>>>------   77.22 %
-C                6 hrs 2 mins    >>>>>--------------------   21.38 %
-Objective-C      16 mins         -------------------------   00.96 %
-JSON             3 mins          -------------------------   00.20 %
-Markdown         2 mins          -------------------------   00.13 %
+Other            22 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.66 %
+C                2 hrs 1 min     >>-----------------------   08.27 %
+Objective-C      8 mins          -------------------------   00.57 %
+JSON             3 mins          -------------------------   00.23 %
+Markdown         2 mins          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
