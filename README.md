@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-Total Time: 9 mins
+Total Time: 22 mins
 
-Other            17 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.81 %
-C                11 mins         -------------------------   01.06 %
-ca65 assembler   0 secs          -------------------------   00.08 %
-PythonStub       0 secs          -------------------------   00.04 %
-Python           0 secs          -------------------------   00.02 %
+Other            19 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.89 %
+C                14 mins         -------------------------   01.18 %
+Markdown         9 mins          -------------------------   00.80 %
+ca65 assembler   0 secs          -------------------------   00.07 %
+PythonStub       0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
