@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 August 2024 - To: 19 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 47 mins
+Total Time: 22 mins
 
-Other            23 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.49 %
-C                13 mins         -------------------------   00.96 %
-Markdown         12 mins         -------------------------   00.90 %
-CMake            10 mins         -------------------------   00.72 %
-JSON             7 mins          -------------------------   00.48 %
+Other            31 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.82 %
+JSON             6 mins          -------------------------   00.36 %
+GitIgnore file   4 mins          -------------------------   00.21 %
+C                4 mins          -------------------------   00.21 %
+CMake            3 mins          -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
