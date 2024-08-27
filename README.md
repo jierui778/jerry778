@@ -64,15 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 August 2024 - To: 23 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 5 mins
+Total Time: 1 min
 
-Other            46 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.81 %
-GitIgnore file   3 mins          -------------------------   00.11 %
-C                1 min           -------------------------   00.07 %
-Markdown         0 secs          -------------------------   00.00 %
-Text             0 secs          -------------------------   00.00 %
+Other   46 hrs 28 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.96 %
+C       1 min           -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
