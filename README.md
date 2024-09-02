@@ -64,12 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 August 2024 - To: 30 August 2024
+From: 24 August 2024 - To: 31 August 2024
 
-Total Time: 53 mins
+Total Time: 3 hrs 44 mins
 
-Other      62 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.60 %
-C          53 mins         -------------------------   01.40 %
+Other      70 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.96 %
+C          3 hrs 44 mins   >------------------------   05.04 %
 Makefile   0 secs          -------------------------   00.00 %
 ```
 
