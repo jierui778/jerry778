@@ -64,13 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
 Total Time: 3 hrs 44 mins
 
-Other      70 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.96 %
-C          3 hrs 44 mins   >------------------------   05.04 %
-Makefile   0 secs          -------------------------   00.00 %
+Other         74 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.22 %
+C             3 hrs 43 mins   >------------------------   04.76 %
+Objective-C   0 secs          -------------------------   00.02 %
+Makefile      0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
