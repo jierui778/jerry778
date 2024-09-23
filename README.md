@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Total Time: 9 hrs 19 mins
+Total Time: 8 hrs 34 mins
 
-Other        33 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>-----   78.40 %
-C            9 hrs 2 mins    >>>>>--------------------   20.97 %
-Git Config   9 mins          -------------------------   00.35 %
-CMake        4 mins          -------------------------   00.16 %
-Markdown     1 min           -------------------------   00.07 %
+Other        29 hrs 58 mins  >>>>>>>>>>>>>>>>>>>------   77.74 %
+C            8 hrs 19 mins   >>>>>--------------------   21.58 %
+Git Config   9 mins          -------------------------   00.39 %
+CMake        4 mins          -------------------------   00.18 %
+Markdown     1 min           -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
