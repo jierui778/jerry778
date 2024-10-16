@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 8 hrs 16 mins
+Total Time: 11 hrs 33 mins
 
-Other         6 hrs 31 mins   >>>>>>>>>>>--------------   44.06 %
-C             2 hrs 53 mins   >>>>>--------------------   19.48 %
-C++           2 hrs 33 mins   >>>>---------------------   17.27 %
-Makefile      2 hrs 23 mins   >>>>---------------------   16.21 %
-Markdown      14 mins         -------------------------   01.65 %
+C++           5 hrs 50 mins   >>>>>>>>>>---------------   40.44 %
+C             2 hrs 53 mins   >>>>>--------------------   19.97 %
+Other         2 hrs 52 mins   >>>>>--------------------   19.91 %
+Makefile      2 hrs 23 mins   >>>>---------------------   16.62 %
+Markdown      14 mins         -------------------------   01.69 %
 ```
 
 <!--END_SECTION:waka-->
