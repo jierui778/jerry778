@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-Total Time: 4 hrs 25 mins
+Total Time: 7 hrs 26 mins
 
-Other      7 hrs 19 mins   >>>>>>>>>>>>>>>>---------   62.41 %
-C++        3 hrs 53 mins   >>>>>>>>-----------------   33.05 %
-C          31 mins         >------------------------   04.51 %
-Markdown   0 secs          -------------------------   00.03 %
+Other      11 hrs 52 mins  >>>>>>>>>>>>>>>----------   61.46 %
+C++        5 hrs 7 mins    >>>>>>>------------------   26.57 %
+C          2 hrs 15 mins   >>>----------------------   11.66 %
+Markdown   3 mins          -------------------------   00.32 %
 ```
 
 <!--END_SECTION:waka-->
