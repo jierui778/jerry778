@@ -64,14 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-Total Time: 9 hrs 53 mins
+Total Time: 10 hrs 33 mins
 
-Other   27 hrs 31 mins  >>>>>>>>>>>>>>>>>>-------   73.56 %
-C++     9 hrs 52 mins   >>>>>>>------------------   26.40 %
-Java    0 secs          -------------------------   00.03 %
-C       0 secs          -------------------------   00.02 %
+Other      28 hrs 54 mins  >>>>>>>>>>>>>>>>>>-------   73.26 %
+C++        10 hrs 1 min    >>>>>>-------------------   25.39 %
+Java       19 mins         -------------------------   00.81 %
+Markdown   9 mins          -------------------------   00.39 %
+C          3 mins          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
