@@ -64,15 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Total Time: 12 hrs 22 mins
+Total Time: 6 hrs 35 mins
 
-Other         41 hrs 25 mins  >>>>>>>>>>>>>>>>>>>------   76.98 %
-Java          6 hrs 31 mins   >>>----------------------   12.13 %
-MATLAB        5 hrs 48 mins   >>>----------------------   10.81 %
-Objective-C   2 mins          -------------------------   00.07 %
-Python        0 secs          -------------------------   00.01 %
+Other    45 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.45 %
+Java     6 hrs 35 mins   >>>----------------------   12.52 %
+MATLAB   0 secs          -------------------------   00.01 %
+Python   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
