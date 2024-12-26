@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 December 2024 - To: 23 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Total Time: 7 hrs 22 mins
+Total Time: 7 hrs 19 mins
 
-Other         40 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>----   84.53 %
-C++           6 hrs 40 mins   >>>----------------------   13.97 %
-Objective-C   24 mins         -------------------------   00.86 %
-Python        7 mins          -------------------------   00.25 %
-C             6 mins          -------------------------   00.22 %
+Other         43 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>----   85.52 %
+C++           6 hrs 41 mins   >>>----------------------   13.21 %
+Objective-C   24 mins         -------------------------   00.81 %
+Python        6 mins          -------------------------   00.23 %
+C             6 mins          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
