@@ -64,12 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 48 mins
 
-Other   8 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.84 %
-C++     0 secs          -------------------------   00.16 %
+Other   9 hrs 1 min     >>>>>>>>>>>>>>>>>>>------   76.22 %
+C++     2 hrs 48 mins   >>>>>>-------------------   23.78 %
 ```
 
 <!--END_SECTION:waka-->
