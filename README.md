@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 December 2024 - To: 06 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
 Total Time: 6 hrs 55 mins
 
-Other         28 hrs 30 mins  >>>>>>>>>>>>>>>>>>>>-----   80.46 %
-C++           6 hrs 54 mins   >>>>>--------------------   19.50 %
-Objective-C   0 secs          -------------------------   00.04 %
+Other         34 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>----   83.14 %
+C++           6 hrs 54 mins   >>>>---------------------   16.82 %
+Objective-C   0 secs          -------------------------   00.03 %
 VB.NET        0 secs          -------------------------   00.01 %
 ```
 
