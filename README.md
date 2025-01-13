@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 January 2025 - To: 10 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Total Time: 4 mins
+Total Time: 1 hr 3 mins
 
-Other         38 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.81 %
-C++           3 mins          -------------------------   00.15 %
-Objective-C   0 secs          -------------------------   00.03 %
-VB.NET        0 secs          -------------------------   00.01 %
+Other      23 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.76 %
+C          1 hr 1 min      >------------------------   04.10 %
+C++        1 min           -------------------------   00.11 %
+Markdown   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
