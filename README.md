@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-Total Time: 21 hrs 31 mins
+Total Time: 10 hrs 33 mins
 
-Other         17 hrs 37 mins  >>>>>>>>>>>--------------   45.02 %
-C++           11 hrs 26 mins  >>>>>>>------------------   29.22 %
-C             9 hrs 46 mins   >>>>>>-------------------   24.97 %
-Objective-C   18 mins         -------------------------   00.77 %
-Assembly      0 secs          -------------------------   00.01 %
+Other            24 hrs 48 mins  >>>>>>>>>>>>>>>>>>-------   70.13 %
+C                8 hrs 8 mins    >>>>>>-------------------   23.02 %
+C++              1 hr 22 mins    >------------------------   03.91 %
+ObjectiveC       42 mins         -------------------------   01.99 %
+Objective-C      18 mins         -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
