@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 2 hrs 37 mins
+Total Time: 11 hrs 34 mins
 
-Other            28 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.51 %
-C                1 hr 41 mins    >------------------------   05.50 %
-ObjectiveC       51 mins         >------------------------   02.76 %
-Objective-C      2 mins          -------------------------   00.14 %
+Other            22 hrs 19 mins  >>>>>>>>>>>>>>>>---------   65.87 %
+C                10 hrs 22 mins  >>>>>>>>-----------------   30.59 %
+ObjectiveC       51 mins         >------------------------   02.51 %
+Objective-C      19 mins         -------------------------   00.94 %
 CMake            0 secs          -------------------------   00.04 %
 ```
 
