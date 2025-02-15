@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 15 hrs 27 mins
+Total Time: 18 hrs 30 mins
 
-Other         19 hrs 11 mins  >>>>>>>>>>>>>>-----------   55.38 %
-C++           8 hrs 55 mins   >>>>>>-------------------   25.75 %
-C             6 hrs 29 mins   >>>>>--------------------   18.72 %
-Git Config    1 min           -------------------------   00.09 %
-Objective-C   1 min           -------------------------   00.06 %
+Other         23 hrs 38 mins  >>>>>>>>>>>>>>-----------   56.09 %
+C++           11 hrs 58 mins  >>>>>>>------------------   28.39 %
+C             6 hrs 29 mins   >>>>---------------------   15.40 %
+Git Config    1 min           -------------------------   00.07 %
+Objective-C   1 min           -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
