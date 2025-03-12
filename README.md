@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Total Time: 10 hrs 16 mins
+Total Time: 9 hrs 26 mins
 
-Other         38 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>-----   79.10 %
-C++           5 hrs 17 mins   >>>----------------------   10.77 %
-C             4 hrs 25 mins   >>-----------------------   09.00 %
-Objective-C   33 mins         -------------------------   01.14 %
+Other         35 hrs 48 mins  >>>>>>>>>>>>>>>>>>>>-----   79.13 %
+C             6 hrs 54 mins   >>>>---------------------   15.28 %
+C++           1 hr 58 mins    >------------------------   04.36 %
+Objective-C   33 mins         -------------------------   01.23 %
 ```
 
 <!--END_SECTION:waka-->
