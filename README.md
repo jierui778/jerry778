@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 12 hrs 38 mins
+Total Time: 14 hrs 29 mins
 
-Other         39 hrs 18 mins  >>>>>>>>>>>>>>>>>>>------   75.67 %
-C++           9 hrs 50 mins   >>>>>--------------------   18.95 %
-C             2 hrs 28 mins   >------------------------   04.76 %
-YAML          14 mins         -------------------------   00.47 %
+Other         34 hrs 20 mins  >>>>>>>>>>>>>>>>>>-------   70.32 %
+C++           11 hrs 42 mins  >>>>>>-------------------   23.96 %
+C             2 hrs 28 mins   >------------------------   05.06 %
+YAML          14 mins         -------------------------   00.50 %
 Markdown      2 mins          -------------------------   00.09 %
 ```
 
