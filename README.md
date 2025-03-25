@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 March 2025 - To: 22 March 2025
+From: 16 March 2025 - To: 23 March 2025
 
-Total Time: 7 hrs 57 mins
+Total Time: 13 hrs 19 mins
 
-Other        15 hrs 4 mins   >>>>>>>>>>>>>>>>---------   65.47 %
-C++          7 hrs 41 mins   >>>>>>>>-----------------   33.40 %
-C            12 mins         -------------------------   00.88 %
-Markdown     2 mins          -------------------------   00.20 %
-JavaScript   0 secs          -------------------------   00.04 %
+Other        15 hrs 15 mins  >>>>>>>>>>>>>------------   53.37 %
+C++          11 hrs 40 mins  >>>>>>>>>>---------------   40.87 %
+Markdown     1 hr 21 mins    >------------------------   04.75 %
+C            12 mins         -------------------------   00.71 %
+Makefile     4 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
