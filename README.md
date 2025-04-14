@@ -64,14 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Total Time: 7 hrs 29 mins
+Total Time: 8 hrs 31 mins
 
-Other      41 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>----   84.77 %
-C          7 hrs 17 mins   >>>>---------------------   14.81 %
-Markdown   12 mins         -------------------------   00.41 %
-Makefile   0 secs          -------------------------   00.00 %
+Other           50 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>----   85.60 %
+C               7 hrs 52 mins   >>>----------------------   13.29 %
+Linker Script   24 mins         -------------------------   00.70 %
+Markdown        12 mins         -------------------------   00.35 %
+Makefile        2 mins          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
