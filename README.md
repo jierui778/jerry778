@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-Total Time: 8 hrs 31 mins
+Total Time: 8 hrs 45 mins
 
-Other           50 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>----   85.60 %
-C               7 hrs 52 mins   >>>----------------------   13.29 %
-Linker Script   24 mins         -------------------------   00.70 %
-Markdown        12 mins         -------------------------   00.35 %
+Other           58 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.95 %
+C               8 hrs 5 mins    >>>----------------------   12.07 %
+Linker Script   24 mins         -------------------------   00.61 %
+Markdown        12 mins         -------------------------   00.31 %
 Makefile        2 mins          -------------------------   00.07 %
 ```
 
