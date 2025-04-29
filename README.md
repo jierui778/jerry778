@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 April 2025 - To: 26 April 2025
+From: 20 April 2025 - To: 27 April 2025
 
-Total Time: 3 hrs 25 mins
+Total Time: 3 hrs 19 mins
 
-Other      84 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.09 %
-Markdown   2 hrs 14 mins   >------------------------   02.55 %
-C          1 hr            -------------------------   01.15 %
-Text       5 mins          -------------------------   00.11 %
-HTML       5 mins          -------------------------   00.10 %
+Other      76 hrs 39 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.84 %
+Markdown   2 hrs 14 mins   >------------------------   02.80 %
+C          54 mins         -------------------------   01.13 %
+Text       5 mins          -------------------------   00.12 %
+HTML       5 mins          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
