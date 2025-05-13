@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 May 2025 - To: 10 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
 Total Time: 2 hrs 31 mins
 
-Other              47 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.91 %
-C                  2 hrs 28 mins   >------------------------   04.99 %
-Markdown           2 mins          -------------------------   00.07 %
-reStructuredText   0 secs          -------------------------   00.03 %
+Other              60 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.97 %
+C                  2 hrs 28 mins   >------------------------   03.95 %
+Markdown           2 mins          -------------------------   00.06 %
+reStructuredText   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
