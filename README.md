@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-Total Time: 3 hrs 41 mins
+Total Time: 3 hrs 21 mins
 
-Other            56 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.89 %
-C                3 hrs 14 mins   >------------------------   05.37 %
-C++              18 mins         -------------------------   00.51 %
-Markdown         6 mins          -------------------------   00.18 %
-Python           1 min           -------------------------   00.03 %
+Other            51 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.86 %
+C                2 hrs 55 mins   >------------------------   05.35 %
+C++              18 mins         -------------------------   00.56 %
+Markdown         6 mins          -------------------------   00.20 %
+Linker Script    0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
