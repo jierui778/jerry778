@@ -64,15 +64,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 June 2025 - To: 09 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 7 hrs 3 mins
+Total Time: 10 hrs 10 mins
 
-Other         52 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.08 %
-Objective-C   3 hrs 8 mins    >------------------------   05.31 %
-Python        2 hrs 54 mins   >------------------------   04.91 %
-C             56 mins         -------------------------   01.58 %
-Markdown      4 mins          -------------------------   00.12 %
+Other         47 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>----   82.26 %
+Python        6 hrs 59 mins   >>>----------------------   12.18 %
+Objective-C   3 hrs 8 mins    >------------------------   05.48 %
+C             2 mins          -------------------------   00.08 %
+MATLAB        0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
