@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 June 2025 - To: 15 June 2025
+From: 09 June 2025 - To: 16 June 2025
 
 Total Time: 12 hrs 15 mins
 
-Other    26 hrs 12 mins  >>>>>>>>>>>>>>>>>--------   68.13 %
-Python   8 hrs 19 mins   >>>>>--------------------   21.64 %
-C        3 hrs 56 mins   >>>----------------------   10.23 %
+Other    21 hrs 45 mins  >>>>>>>>>>>>>>>>---------   63.97 %
+Python   8 hrs 19 mins   >>>>>>-------------------   24.47 %
+C        3 hrs 56 mins   >>>----------------------   11.56 %
 ```
 
 <!--END_SECTION:waka-->
