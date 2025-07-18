@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 July 2025 - To: 15 July 2025
+From: 09 July 2025 - To: 16 July 2025
 
-Total Time: 4 hrs 57 mins
+Total Time: 7 hrs 50 mins
 
-Other         11 hrs 52 mins  >>>>>>>>>>>>>>>>>>-------   70.57 %
-C             4 hrs 55 mins   >>>>>>>------------------   29.24 %
-Markdown      1 min           -------------------------   00.11 %
-JSON          0 secs          -------------------------   00.08 %
+Other         17 hrs 28 mins  >>>>>>>>>>>>>>>>>--------   69.04 %
+C             7 hrs 48 mins   >>>>>>>>-----------------   30.82 %
+Markdown      1 min           -------------------------   00.07 %
+JSON          0 secs          -------------------------   00.05 %
 Objective-C   0 secs          -------------------------   00.01 %
 ```
 
