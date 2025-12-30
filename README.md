@@ -119,44 +119,44 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C130%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C129%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 1.7 MB Used in GitHub's Storage
- >
-> 🏆 29 Contributions in the Year 2025
- >
+> 📦 1.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
- >
-> 📜 21 Public Repositories
- >
-> 🔑 8 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-🌆 Daytime                291 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-🌃 Evening                344 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
-🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+🌆 Daytime                298 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌃 Evening                348 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
 ```
-
-📅 **I'm Most Productive on Friday**
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Saturday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Tuesday                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -174,7 +174,7 @@ RM2024-SuperCapacitorCont2 hrs 34 mins       ███████████�
 Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in C**
+**I Mostly Code in C** 
 
 ```text
 C                        10 repos            ████████████████░░░░░░░░░   62.50 % 
@@ -184,7 +184,10 @@ Lua                      1 repo              ██░░░░░░░░░�
 C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
- Last Updated on 30/12/2025 07:44:27 UTC
+
+
+
+ Last Updated on 30/12/2025 18:54:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
