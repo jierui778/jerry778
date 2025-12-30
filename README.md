@@ -3,7 +3,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="/assets/coding.gif" height="225px" />
+    <source media="(prefers-color-scheme: light)" srcset="/assets/coding.gif" height="250px" />
     <img src="/assets/coding.gif" />
   </picture>
 
