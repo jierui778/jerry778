@@ -1,3 +1,8 @@
+<a href="/assets/coding.gif">
+  <img align="right"  alt="GIF" src="/assets/coding.gif" width="240"/>
+</a>
+
+
 ### Hi there 👋
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
@@ -25,10 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="/assets/coding.gif">
-  <img align="right"  alt="GIF" src="/assets/coding.gif" width="240"/>
-</a>
 
 ### Hello!  I am <b>jierui<a target="_blank" href="javascript:;"></a></b>
 
