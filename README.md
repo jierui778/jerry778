@@ -1,15 +1,16 @@
 ### Hi there 👋
-
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <!-- <a href="https://blog.sunguoqi.com/"> -->
+    <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
     </a>
   </div>
 </div>
 
   ---
+
+
 
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+<a href="/assets/coding.gif">
+  <img align="right"  alt="GIF" src="/assets/coding.gif" width="240"/>
 </a>
 
 ### Hello!  I am <b>jierui<a target="_blank" href="javascript:;"></a></b>
