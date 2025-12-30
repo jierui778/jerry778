@@ -7,6 +7,8 @@
     <img src="/assets/coding.gif" />
   </picture>
 
+</div>
+
 ### Hi there 👋
 
 <div align="center">
