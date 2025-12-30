@@ -63,9 +63,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jierui778&abbreviated=true&color=yellow" />
 <a href="https://github.com/jierui778"><img src="https://img.shields.io/badge/GitHub-jierui778-blue?logo=github" /></a>
-<a href="https://jierui778.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
-<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+<!-- <a href="https://jierui778.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a> -->
+<img src="https://img.shields.io/badge/QQ-758418101-green?logo=tencentqq" />
+<img href="mailto:758418101@qq.com" src="https://img.shields.io/badge/758418101@qq.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
 
