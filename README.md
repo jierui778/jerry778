@@ -47,7 +47,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 
 
 ## 🏢 Work Experience
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="200" src="/assets/ZEROZERO.png" />
 
 - [零零无限科技](https://www.inspur.com/)   📌 2025-07 —— 2025-12
 
