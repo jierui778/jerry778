@@ -1,9 +1,14 @@
-<a href="/assets/coding.gif">
-  <img align="right"  alt="GIF" src="/assets/coding.gif" width="240"/>
-</a>
+<div align="center">
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="/assets/coding.gif" height="225px" />
+    <img src="/assets/coding.gif" />
+  </picture>
 
 ### Hi there 👋
+
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -14,8 +19,6 @@
 </div>
 
   ---
-
-
 
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -189,6 +192,5 @@ C++                      1 repo              ██░░░░░░░░░�
 <h3>Appreciate your feedbacks</h3>
 
 <b>:performing_arts: Leave a message to me? </b>--> <https://github.com/jierui778/jierui778/issues>
-
 
 <br>
