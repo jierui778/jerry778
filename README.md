@@ -176,7 +176,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 <h3>Appreciate your feedbacks</h3>
 
-<b>:performing_arts: Leave a message to me? </b>--> https://github.com/Charmve/Charmve/issues
+<b>:performing_arts: Leave a message to me? </b>--> https://github.com/jierui778/jierui778/issues
 
 [ContactMe]: https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
 
