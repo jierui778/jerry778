@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)th visitor
+You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.svg)th visitor
 
 
 ---
 
 <!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/yxn4065/yxn4065/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/jierui778/jierui778/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 ### Skills
@@ -61,9 +61,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
-<a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
-<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<img src="https://komarev.com/ghpvc/?username=jierui778&abbreviated=true&color=yellow" />
+<a href="https://github.com/jierui778"><img src="https://img.shields.io/badge/GitHub-jierui778-blue?logo=github" /></a>
+<a href="https://jierui778.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
 <img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
 <img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
@@ -77,17 +77,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=jierui778&show_icons=true" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jierui778&layout=compact" />
       </td>
     </tr>
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=jierui778&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
@@ -99,7 +99,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%2039%20mins-blue)
 
@@ -172,7 +172,7 @@ Vue                      1 repo              ██░░░░░░░░░�
  Last Updated on 01/06/2025 18:43:26 UTC
 <!--END_SECTION:waka-->
 
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
 
 ---
 
