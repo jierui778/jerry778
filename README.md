@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -24,14 +25,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+<a href="/assets/2019122617442217.gif">
+  <img align="right" alt="GIF" src="/assets/2019122617442217.gif" width="240"/>
 </a>
 
 ### Hello!  I am <b>jierui<a target="_blank" href="javascript:;"></a></b>
 
-
-- :hearts: Passionate about open source software. 
+- :hearts: Passionate about open source software.
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: Highlights of my successful endeavors.
 
@@ -45,14 +45,27 @@ Here are some ideas to get you started:
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.svg)th visitor
 
+## 🏢 Work Experience
+
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+
+- [零零无限科技](https://www.inspur.com/)   📌 2025-07 —— 2025-12
+
+  - 工作岗位：电源系统嵌入式实习生
+  - 工作内容：参与BMS嵌入式软件开发及其相关测试
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+</td></tr>
 
 ---
 
 <!-- 贪吃蛇 -->
 ![](https://raw.githubusercontent.com/jierui778/jierui778/refs/heads/output/github-contribution-grid-snake.svg)
 
-
 ### Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
@@ -68,10 +81,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <img href="mailto:758418101@qq.com" src="https://img.shields.io/badge/758418101@qq.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
-
 ---
 
 ### About My Github
+
 <div align="center">
   <table style="width:100%;">
     <tr>
@@ -105,19 +118,19 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.7 MB Used in GitHub's Storage 
- > 
+> 📦 1.7 MB Used in GitHub's Storage
+ >
 > 🏆 29 Contributions in the Year 2025
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 21 Public Repositories
+ >
+> 🔑 8 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
@@ -125,7 +138,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 🌃 Evening                344 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
 🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
 Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
@@ -137,8 +151,7 @@ Saturday                 128 commits         ████░░░░░░░�
 Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -156,7 +169,7 @@ RM2024-SuperCapacitorCont2 hrs 34 mins       ███████████�
 Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in C** 
+**I Mostly Code in C**
 
 ```text
 C                        10 repos            ████████████████░░░░░░░░░   62.50 % 
@@ -166,9 +179,6 @@ Lua                      1 repo              ██░░░░░░░░░�
 C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
-
-
-
  Last Updated on 30/12/2025 07:44:27 UTC
 <!--END_SECTION:waka-->
 
@@ -176,8 +186,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <h3>Appreciate your feedbacks</h3>
 
-<b>:performing_arts: Leave a message to me? </b>--> https://github.com/jierui778/jierui778/issues
-
-[ContactMe]: https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
+<b>:performing_arts: Leave a message to me? </b>--> <https://github.com/jierui778/jierui778/issues>
 
 <br>
