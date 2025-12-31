@@ -119,7 +119,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C129%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C132%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -162,16 +162,19 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 34 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 39 mins       █████████████░░░░░░░░░░░░   50.68 % 
+C++                      2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RM2024-SuperCapacitorCont2 hrs 34 mins       █████████████████████████   100.00 % 
+jerry778                 2 hrs 40 mins       █████████████░░░░░░░░░░░░   50.97 % 
+RM2024-SuperCapacitorCont2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -187,7 +190,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 18:54:39 UTC
+ Last Updated on 31/12/2025 18:52:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
