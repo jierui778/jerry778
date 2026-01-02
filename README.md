@@ -121,9 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C132%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
 
 **🐱 My GitHub Data** 
 
@@ -137,48 +135,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 39 mins       █████████████░░░░░░░░░░░░   50.68 % 
-C++                      2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.03 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-jerry778                 2 hrs 40 mins       █████████████░░░░░░░░░░░░   50.97 % 
-RM2024-SuperCapacitorCont2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.03 % 
-
-💻 Operating System: 
-Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -192,7 +148,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 18:53:23 UTC
+ Last Updated on 02/01/2026 18:52:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
