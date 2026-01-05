@@ -121,7 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C133%20hrs%2052%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -188,7 +190,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:51:29 UTC
+ Last Updated on 05/01/2026 18:56:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
