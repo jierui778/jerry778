@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C162%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C177%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -164,23 +164,24 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        28 hrs 22 mins      █████████████████████████   98.86 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+C                        43 hrs 1 min        █████████████████████████   98.54 % 
+Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  43 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboMaster2026_PowerRune 25 hrs 31 mins      ██████████████████████░░░   88.91 % 
-2023_Energy_Mechine_Code_2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Galvanometer             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-IR_demo                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-HX1838                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+RoboMaster2026_PowerRune 36 hrs 42 mins      █████████████████████░░░░   84.06 % 
+2023_Energy_Mechine_Code_3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+2026_Energy_Mechine_Code_3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Galvanometer             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+RoboMaster-NEFU-Ares-UAVG14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  28 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -196,7 +197,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2026 19:42:55 UTC
+ Last Updated on 21/01/2026 19:06:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
