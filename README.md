@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C223%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C226%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -137,6 +137,51 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
+🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        5 hrs 9 mins        █████████████████████░░░░   85.24 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+RM2026_SuperCapCtrl      2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.39 % 
+STM32F3xx_FreeRTOS_Modbus1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+RoboMaster2026_PowerRune 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+STM32H723VGT6_DemoForVESC28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+RoboMaster2026_PowerRune_19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+
+💻 Operating System: 
+Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -150,7 +195,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 19:13:17 UTC
+ Last Updated on 06/02/2026 19:13:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
