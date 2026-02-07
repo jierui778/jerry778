@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C226%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C229%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -164,22 +164,23 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        5 hrs 9 mins        █████████████████████░░░░   85.24 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C                        7 hrs 46 mins       ██████████████████████░░░   89.59 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RM2026_SuperCapCtrl      2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.39 % 
-STM32F3xx_FreeRTOS_Modbus1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-RoboMaster2026_PowerRune 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-STM32H723VGT6_DemoForVESC28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-RoboMaster2026_PowerRune_19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+RoboMaster2026_PowerRune 3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.98 % 
+RM2026_SuperCapCtrl      2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+STM32F3xx_FreeRTOS_Modbus1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+empty_driverlib_project_f48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+STM32H723VGT6_DemoForVESC28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -195,7 +196,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 19:13:47 UTC
+ Last Updated on 07/02/2026 19:01:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
