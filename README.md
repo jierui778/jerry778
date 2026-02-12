@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C229%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C229%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -164,21 +164,22 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        5 hrs 29 mins       █████████████████████████   99.78 % 
+C                        5 hrs 27 mins       ████████████████████████░   96.23 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboMaster2026_PowerRune 2 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-RM2026_SuperCapCtrl      1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-empty_driverlib_project_f48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-GPIO_Key Beep            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-instaspin_foc            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+RoboMaster2026_PowerRune 2 hrs 52 mins       █████████████░░░░░░░░░░░░   50.66 % 
+RM2026_SuperCapCtrl      1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+empty_driverlib_project_f48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+GPIO_Key Beep            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+instaspin_foc            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -194,7 +195,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 19:34:37 UTC
+ Last Updated on 12/02/2026 19:33:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
