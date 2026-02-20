@@ -123,7 +123,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C235%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -164,21 +164,16 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        5 hrs 43 mins       ████████████████████████░   95.44 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-agile_modbus             3 hrs 42 mins       ███████████████░░░░░░░░░░   61.75 % 
-RoboMaster2026_PowerRune 1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   32.31 % 
-RoboMaster2026_PowerRune_21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -194,7 +189,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 19:24:28 UTC
+ Last Updated on 20/02/2026 19:12:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
