@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C274%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C281%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -164,23 +164,23 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        39 hrs 7 mins       █████████████████████████   98.91 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C                        35 hrs 18 mins      █████████████████████████   98.89 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboMaster2026_PowerRune_20 hrs 59 mins      █████████████░░░░░░░░░░░░   53.06 % 
-RoboMaster2026_PowerRune 17 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
-agile_modbus_mcu_demos   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-AT32F437_Boot            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-STM32H723VGT6_DemoForVESC2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+RoboMaster2026_PowerRune 21 hrs 17 mins      ███████████████░░░░░░░░░░   59.65 % 
+RoboMaster2026_PowerRune_12 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.92 % 
+agile_modbus_mcu_demos   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+2026_Energy_Mechine_Code_37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+AT32F437_Boot            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  39 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -196,7 +196,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 19:09:48 UTC
+ Last Updated on 07/03/2026 18:56:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
