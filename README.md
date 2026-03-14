@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C334%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C352%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -137,6 +137,53 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
+🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        65 hrs 40 mins      ███████████████████████░░   92.43 % 
+C++                      4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Makefile                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  71 hrs 2 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+RoboMaster2026_PowerRune_35 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.86 % 
+RoboMaster2026_PowerRune 29 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   41.91 % 
+RM2025-Wireless-Charging-5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+2026_Energy_Mechine_Code_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+agile_modbus_mcu_demos   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Windows                  71 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -150,7 +197,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2026 19:08:09 UTC
+ Last Updated on 14/03/2026 19:03:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
