@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C421%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C423%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -164,18 +164,21 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 9 mins        █████████████████████████   99.51 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C                        3 hrs 48 mins       █████████████████████████   98.94 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bldc                     2 hrs 10 mins       █████████████████████████   100.00 % 
+bldc                     3 hrs 37 mins       ████████████████████████░   94.14 % 
+vesc_bms_fw              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+RM2024-SuperCapacitorCont1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -191,7 +194,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 19:53:16 UTC
+ Last Updated on 16/04/2026 19:49:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
