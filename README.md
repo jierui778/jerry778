@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C450%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C452%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -164,17 +164,17 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        11 hrs 21 mins      █████████████████████████   100.00 % 
+C                        13 hrs 46 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bldc                     11 hrs 15 mins      █████████████████████████   99.18 % 
-bldc-master              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+bldc                     13 hrs 40 mins      █████████████████████████   99.32 % 
+bldc-master              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Windows                  11 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -190,7 +190,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2026 19:31:36 UTC
+ Last Updated on 27/04/2026 19:59:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
