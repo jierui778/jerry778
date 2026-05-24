@@ -121,6 +121,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C457%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -135,6 +137,45 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+🌆 Daytime                264 commits         █████████░░░░░░░░░░░░░░░░   34.24 % 
+🌃 Evening                303 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌙 Night                  183 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Friday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -148,7 +189,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 19:48:10 UTC
+ Last Updated on 24/05/2026 19:49:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
