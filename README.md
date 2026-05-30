@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C460%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C474%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -164,18 +164,20 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        3 hrs 18 mins       █████████████████████████   100.00 % 
+C                        17 hrs 15 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-M4TD_TOOLS               2 hrs 58 mins       ██████████████████████░░░   89.97 % 
-H743_BQ40Z80_DEMO        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-V7-001_跑马灯               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+M4TD_TOOLS               15 hrs 34 mins      ███████████████████████░░   90.25 % 
+IPS200                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+SC0110_SourceCode_V2.0.1 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+H743_BQ40Z80_DEMO        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+at32_test                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -191,7 +193,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 20:46:45 UTC
+ Last Updated on 30/05/2026 19:52:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
