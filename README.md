@@ -121,6 +121,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C542%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -135,6 +137,50 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌃 Evening                350 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  251 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        42 hrs 9 mins       ████████████████████████░   97.10 % 
+Objective-C              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+
+🔥 Editors: 
+VS Code                  43 hrs 24 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+M4TD_TOOLS               42 hrs 25 mins      ████████████████████████░   97.73 % 
+bldc                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+USART_IDLE_DMA_V2.0.0    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+SC0110_SourceCode_V2.0.1 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+st7789                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+💻 Operating System: 
+Windows                  43 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -148,7 +194,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 19:54:51 UTC
+ Last Updated on 08/06/2026 20:41:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
