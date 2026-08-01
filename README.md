@@ -121,7 +121,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C535%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2026%20mins-blue?style=flat)
 
@@ -166,30 +166,32 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        6 hrs 1 min         ██████████████████░░░░░░░   71.79 % 
-Other                    1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Objective-C              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+C                        6 hrs 30 mins       ██████████████████░░░░░░░   73.33 % 
+Other                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Objective-C              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       ███████████████████░░░░░░   77.89 % 
-Claude Code              1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+VS Code                  7 hrs 1 min         ████████████████████░░░░░   79.10 % 
+Claude Code              1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 
 🐱‍💻 Projects: 
-M4TD_TOOLS               7 hrs 55 mins       ████████████████████████░   94.53 % 
-System32                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+M4TD_TOOLS               7 hrs 55 mins       ██████████████████████░░░   89.37 % 
+System32                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+测试程序                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+blink                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (79.0%)
+⏱ AI Coding Time: 6 hrs 37 mins (74.69%)
 
-✍️ 971 lines written by AI, 190 lines written by hand (83.63% AI-written)
+✍️ 971 lines written by AI, 192 lines written by hand (83.49% AI-written)
 
 🔤 41,788,456 Input Tokens, 181,715 Output Tokens
 
@@ -201,10 +203,10 @@ Opus                     777 lines           ███████████�
 Deepseek                 174 lines           █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.63% of written lines came from AI
+🤖 AI-Driven — 83.49% of written lines came from AI
 📚 Verbose Prompter — average 13,543 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 34.13% of changed lines were hand-edited
+🚀 High AI Trust — 34.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -220,7 +222,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:04:40 UTC
+ Last Updated on 01/08/2026 19:43:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
