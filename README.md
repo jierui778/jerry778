@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -166,47 +166,48 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        6 hrs 30 mins       ██████████████████░░░░░░░   73.33 % 
-Other                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Objective-C              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C                        6 hrs 47 mins       ██████████████░░░░░░░░░░░   56.64 % 
+Python                   1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+C++                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         ████████████████████░░░░░   79.10 % 
-Claude Code              1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+VS Code                  10 hrs              █████████████████████░░░░   83.40 % 
+Claude Code              1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 
 🐱‍💻 Projects: 
-M4TD_TOOLS               7 hrs 55 mins       ██████████████████████░░░   89.37 % 
-System32                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-测试程序                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-blink                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+M4TD_TOOLS               8 hrs 9 mins        █████████████████░░░░░░░░   68.01 % 
+OTA                      2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+System32                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+build                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+测试程序                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (74.69%)
+⏱ AI Coding Time: 9 hrs 29 mins (79.21%)
 
-✍️ 971 lines written by AI, 192 lines written by hand (83.49% AI-written)
+✍️ 3,231 lines written by AI, 214 lines written by hand (93.79% AI-written)
 
-🔤 41,788,456 Input Tokens, 181,715 Output Tokens
+🔤 49,851,646 Input Tokens, 255,986 Output Tokens
 
-💵 $149.17 Estimated AI Cost This Week
+💵 $172.64 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 67 AI Prompts
+🧠 25 AI Sessions, 80 AI Prompts
 
-Opus                     777 lines           ████████████████████░░░░░   81.70 % 
-Deepseek                 174 lines           █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Deepseek                 2,491 lines         ███████████████████░░░░░░   76.22 % 
+Opus                     777 lines           ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.49% of written lines came from AI
-📚 Verbose Prompter — average 13,543 characters per prompt
+🤖 AI-Driven — 93.79% of written lines came from AI
+📚 Verbose Prompter — average 11,363 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 34.35% of changed lines were hand-edited
+🚀 High AI Trust — 14.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -222,7 +223,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:43:33 UTC
+ Last Updated on 02/08/2026 19:43:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
