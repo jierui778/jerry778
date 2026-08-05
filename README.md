@@ -139,77 +139,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-🌆 Daytime                259 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌃 Evening                295 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌙 Night                  173 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Wednesday                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Friday                   146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        4 hrs 36 mins       █████████████░░░░░░░░░░░░   51.60 % 
-Python                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-C++                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Objective-C              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 37 mins       ████████████████████████░   96.69 % 
-Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-
-🐱‍💻 Projects: 
-M4TD_TOOLS               5 hrs 17 mins       ███████████████░░░░░░░░░░   59.35 % 
-OTA                      2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-build                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-测试程序                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-11-4.0LCD显示屏STM32F103硬件SP15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-
-💻 Operating System: 
-Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 34 mins (73.58%)
-
-✍️ 2,532 lines written by AI, 112 lines written by hand (95.76% AI-written)
-
-🔤 40,444,542 Input Tokens, 193,223 Output Tokens
-
-💵 $120.56 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 59 AI Prompts
-
-Deepseek                 2,565 lines         █████████████████████████   99.07 % 
-Opus                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.76% of written lines came from AI
-📚 Verbose Prompter — average 14,666 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.4% of changed lines were hand-edited
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -223,7 +152,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:11:25 UTC
+ Last Updated on 05/08/2026 20:09:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
