@@ -121,6 +121,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C540%20hrs%2039%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -135,6 +139,76 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌃 Evening                350 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  251 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
+Python                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   38.36 % 
+C++                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 54 mins       ████████████████████████░   97.32 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+
+🐱‍💻 Projects: 
+OTA                      2 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+M4TD_TOOLS               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+build                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+测试程序                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+11-4.0LCD显示屏STM32F103硬件SP15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+
+💻 Operating System: 
+Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 24 mins (67.6%)
+
+✍️ 2,311 lines written by AI, 67 lines written by hand (97.18% AI-written)
+
+🔤 9,633,400 Input Tokens, 107,305 Output Tokens
+
+💵 $28.67 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 22 AI Prompts
+
+Deepseek                 2,391 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.18% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.18% of changed lines were hand-edited
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -148,7 +222,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:24:19 UTC
+ Last Updated on 07/08/2026 19:29:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
