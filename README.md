@@ -166,33 +166,33 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
-Python                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   38.36 % 
-C++                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   1 hr 55 mins        ███████████░░░░░░░░░░░░░░   42.44 % 
+C                        1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+C++                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       ████████████████████████░   97.32 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+VS Code                  4 hrs 25 mins       ████████████████████████░   97.03 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🐱‍💻 Projects: 
-OTA                      2 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.93 % 
-M4TD_TOOLS               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-build                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-测试程序                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-11-4.0LCD显示屏STM32F103硬件SP15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+OTA                      2 hrs 24 mins       █████████████░░░░░░░░░░░░   53.02 % 
+M4TD_TOOLS               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+build                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+11-4.0LCD显示屏STM32F103硬件SP15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+STM32F1_ST7796_IPS_4SPI D3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (67.6%)
+⏱ AI Coding Time: 3 hrs 24 mins (74.78%)
 
-✍️ 2,311 lines written by AI, 67 lines written by hand (97.18% AI-written)
+✍️ 2,311 lines written by AI, 65 lines written by hand (97.26% AI-written)
 
 🔤 9,633,400 Input Tokens, 107,305 Output Tokens
 
@@ -203,10 +203,10 @@ Windows                  5 hrs 2 mins        ███████████�
 Deepseek                 2,391 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.18% of written lines came from AI
+🤖 AI-Driven — 97.26% of written lines came from AI
 📝 Concise Prompter — average 82 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.18% of changed lines were hand-edited
+🚀 High AI Trust — 7.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -222,7 +222,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:29:01 UTC
+ Last Updated on 08/08/2026 19:08:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
