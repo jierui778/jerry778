@@ -166,47 +166,42 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ███████████░░░░░░░░░░░░░░   42.44 % 
-C                        1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
-C++                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+C                        1 hr 26 mins        █████████████████████████   99.73 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       ████████████████████████░   97.03 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OTA                      2 hrs 24 mins       █████████████░░░░░░░░░░░░   53.02 % 
-M4TD_TOOLS               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
-build                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-11-4.0LCD显示屏STM32F103硬件SP15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-STM32F1_ST7796_IPS_4SPI D3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+M4TD_TOOLS               1 hr 11 mins        █████████████████████░░░░   82.52 % 
+11-4.0LCD显示屏STM32F103硬件SP11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+STM32F1_ST7796_IPS_4SPI D3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+OTA                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (74.78%)
+⏱ AI Coding Time: 32 mins (37.28%)
 
-✍️ 2,311 lines written by AI, 65 lines written by hand (97.26% AI-written)
+✍️ 51 lines written by AI, 43 lines written by hand (54.26% AI-written)
 
-🔤 9,633,400 Input Tokens, 107,305 Output Tokens
+🔤 1,570,210 Input Tokens, 33,034 Output Tokens
 
-💵 $28.67 Estimated AI Cost This Week
+💵 $5.21 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 22 AI Prompts
+🧠 1 AI Sessions, 9 AI Prompts
 
-Deepseek                 2,391 lines         █████████████████████████   100.00 % 
+Deepseek                 74 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.26% of written lines came from AI
-📝 Concise Prompter — average 82 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 54.26% of written lines came from AI
+📝 Concise Prompter — average 19 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 66.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -222,7 +217,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:08:27 UTC
+ Last Updated on 09/08/2026 19:12:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
