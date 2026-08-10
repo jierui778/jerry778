@@ -166,42 +166,22 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        1 hr 26 mins        █████████████████████████   99.73 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-M4TD_TOOLS               1 hr 11 mins        █████████████████████░░░░   82.52 % 
-11-4.0LCD显示屏STM32F103硬件SP11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-STM32F1_ST7796_IPS_4SPI D3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-OTA                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (37.28%)
-
-✍️ 51 lines written by AI, 43 lines written by hand (54.26% AI-written)
-
-🔤 1,570,210 Input Tokens, 33,034 Output Tokens
-
-💵 $5.21 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 9 AI Prompts
-
-Deepseek                 74 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.26% of written lines came from AI
-📝 Concise Prompter — average 19 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 66.21% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -217,7 +197,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:12:18 UTC
+ Last Updated on 10/08/2026 19:31:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
