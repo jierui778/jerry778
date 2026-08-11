@@ -121,9 +121,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jierui778&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C540%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C541%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -142,21 +142,21 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                350 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌙 Night                  251 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+🌆 Daytime                259 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌃 Evening                295 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌙 Night                  173 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Monday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Friday                   146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 
@@ -166,22 +166,40 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      30 mins             ████████████████████████░   97.62 % 
+CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OTA                      16 mins             █████████████░░░░░░░░░░░░   52.17 % 
+build                    14 mins             ████████████░░░░░░░░░░░░░   47.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (95.97%)
+
+✍️ 325 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 141,446 Input Tokens, 21,271 Output Tokens
+
+💵 $15.75 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Deepseek                 427 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -197,7 +215,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:31:44 UTC
+ Last Updated on 11/08/2026 19:35:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
