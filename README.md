@@ -139,69 +139,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-🌆 Daytime                259 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌃 Evening                295 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌙 Night                  173 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Wednesday                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Friday                   146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      30 mins             ████████████████████████░   97.62 % 
-CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-
-🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-OTA                      16 mins             █████████████░░░░░░░░░░░░   52.17 % 
-build                    14 mins             ████████████░░░░░░░░░░░░░   47.83 % 
-
-💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 29 mins (95.97%)
-
-✍️ 325 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 141,446 Input Tokens, 21,271 Output Tokens
-
-💵 $15.75 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Deepseek                 427 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 34 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -215,7 +152,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:35:58 UTC
+ Last Updated on 12/08/2026 19:37:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
