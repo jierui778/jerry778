@@ -139,6 +139,76 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jierui778/count.sv
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+🌆 Daytime                299 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌃 Evening                350 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  251 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.64 % 
+JSON                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+C++                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 26 mins      ██████████████████████░░░   86.41 % 
+Claude Code              1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+
+🐱‍💻 Projects: 
+AT32F435VMT7_BAT_TOOLS   5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.00 % 
+sample_project           2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+hello_world              1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+OTA                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+build                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+
+💻 Operating System: 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 4 mins (60.91%)
+
+✍️ 1,129 lines written by AI, 17 lines written by hand (98.52% AI-written)
+
+🔤 368,592 Input Tokens, 131,489 Output Tokens
+
+💵 $25.52 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 51 AI Prompts
+
+Deepseek                 1,132 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.52% of written lines came from AI
+📄 Detailed Prompter — average 933 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 46.17% of changed lines were hand-edited
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -152,7 +222,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:09:44 UTC
+ Last Updated on 19/08/2026 19:04:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
