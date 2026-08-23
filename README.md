@@ -166,47 +166,46 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
-Other                    2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-JSON                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Text                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+C                        2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+JSON                     2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 34 mins       █████████████████████░░░░   82.76 % 
-Claude Code              1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+VS Code                  5 hrs 12 mins       ███████████████████░░░░░░   74.46 % 
+Claude Code              1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 
 🐱‍💻 Projects: 
-AT32F435VMT7_BAT_TOOLS   3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
-sample_project           2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-hello_world              1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-build                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-JIERUI778                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+AT32F435VMT7_BAT_TOOLS   2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
+sample_project           1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+hello_world              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JIERUI778                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+M4TD_TOOLS               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (58.68%)
+⏱ AI Coding Time: 4 hrs 48 mins (68.72%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
 
-🔤 183,065 Input Tokens, 55,226 Output Tokens
+🔤 125,605 Input Tokens, 34,953 Output Tokens
 
-💵 $11.28 Estimated AI Cost This Week
+💵 $6.98 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 42 AI Prompts
+🧠 17 AI Sessions, 39 AI Prompts
 
 Deepseek                 1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+📝 Concise Prompter — average 104 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -222,7 +221,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:58:14 UTC
+ Last Updated on 23/08/2026 18:57:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
