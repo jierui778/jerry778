@@ -166,46 +166,22 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-JSON                     2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       ███████████████████░░░░░░   74.46 % 
-Claude Code              1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AT32F435VMT7_BAT_TOOLS   2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
-sample_project           1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-hello_world              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-JIERUI778                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-M4TD_TOOLS               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (68.72%)
-
-✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
-
-🔤 125,605 Input Tokens, 34,953 Output Tokens
-
-💵 $6.98 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 39 AI Prompts
-
-Deepseek                 1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.44% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -221,7 +197,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:57:57 UTC
+ Last Updated on 24/08/2026 19:10:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=jierui778) -->
